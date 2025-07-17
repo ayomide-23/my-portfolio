@@ -33,6 +33,14 @@ function App() {
     demo: "https://easy-park-frontend-aderinto-ayomides-projects.vercel.app/",
     code: "https://github.com/ayomide-23/EasyPark-frontend",
   },
+  {
+    title: "Weathrly",
+    description: "A weather app that provides current weather data and forecasts for any location using OpenWeather API.",
+    image: "/images/weathrly.jpg",
+    tech: ["HTML", "CSS", "Javascript", "OpenWeather API"],
+    demo: "https://weathrly-brown.vercel.app/",
+    code: "https://github.com/ayomide-23/weathrly",
+  }
 ];
 
 
