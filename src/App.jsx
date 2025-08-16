@@ -40,6 +40,14 @@ function App() {
     tech: ["HTML", "CSS", "Javascript", "OpenWeather API"],
     demo: "https://weathrly-brown.vercel.app/",
     code: "https://github.com/ayomide-23/weathrly",
+  },
+  {
+    title: "SCS",
+    description: "A smart construction safety admin dashboard.It provides a centralized interface where administrators can monitor workers, view safety data, track reports, and manage construction site safety operations ",
+    image: "/images/scs.jpg",
+    tech: ["React", "TailwindCss"],
+    demo: "https://smart-construction-safety.vercel.app/",
+    code: "https://github.com/ayomide-23/smart-construction-safety"
   }
 ];
 
@@ -129,12 +137,12 @@ function App() {
            { name: "CSS", level: 90 },
            { name: "JavaScript", level: 60 },
            { name: "React", level: 65 },
-           { name: "Tailwind CSS", level: 50 },
+           { name: "Tailwind CSS", level: 70 },
            { name: "PHP", level: 70 },
-           { name: "MySQL", level: 75 },
+           { name: "MySQL", level: 60 },
            { name: "Git", level: 70 },
-           { name: "Framer Motion", level: 70 },
-           { name: "Vite", level: 65 },
+           { name: "Framer Motion", level: 60 },
+           { name: "Vite", level: 70 },
            { name: "C++", level: 70 },
            {name: "Java", level: 70},
            { name: "REST API", level: 60 },
