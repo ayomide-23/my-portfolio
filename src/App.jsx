@@ -48,6 +48,14 @@ function App() {
     tech: ["React", "TailwindCss"],
     demo: "https://smart-construction-safety.vercel.app/",
     code: "https://github.com/ayomide-23/smart-construction-safety"
+  },
+  {
+    title: "Speedify",
+    description: "Speedify is a modern web application that allows users to measure their internet performance in real-time. It provides accurate metrics for ping (latency), download speed, and upload speed, displayed in a clean, responsive dashboard.",
+    image: "/images/speedify.jpg",
+    tech: ["React", "Nodejs"],
+    demo: "https://speedify-six.vercel.app/",
+    code: "https://github.com/ayomide-23/speedify"
   }
 ];
 
