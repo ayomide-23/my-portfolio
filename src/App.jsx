@@ -143,17 +143,19 @@ function App() {
         {[
            { name: "HTML", level: 95 },
            { name: "CSS", level: 90 },
-           { name: "JavaScript", level: 60 },
-           { name: "React", level: 65 },
-           { name: "Tailwind CSS", level: 70 },
+           { name: "JavaScript", level: 75 },
+           { name: "React", level: 80 },
+           { name: "Tailwind CSS", level: 80 },
            { name: "PHP", level: 70 },
-           { name: "MySQL", level: 60 },
-           { name: "Git", level: 70 },
+           { name: "MySQL", level: 80 },
+           { name: "Git", level: 85 },
            { name: "Framer Motion", level: 60 },
            { name: "Vite", level: 70 },
-           { name: "C++", level: 70 },
-           {name: "Java", level: 70},
+           { name: "C++", level: 75 },
+           {name: "Java", level: 80},
            { name: "REST API", level: 60 },
+           { name: "React Native", level: 75 },
+           {name: "Node js", level: 70}
           ].map((skill, i) => (
            <motion.div
                key={i}
@@ -335,14 +337,14 @@ function App() {
       >
         <FontAwesomeIcon icon={faWhatsapp} />
       </a>
-      <a
+      {/* <a
         href="https://instagram.com/only_heishim"
         target="_blank"
         rel="noopener noreferrer"
         className="hover:text-pink-400 transition duration-300"
       >
         <FontAwesomeIcon icon={faInstagram} />
-      </a>
+      </a> */}
       <a
         href="https://x.com/ayomide_aap"
         target="_blank"
