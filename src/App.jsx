@@ -12,9 +12,8 @@ import "./App.css";
 
 export default function App() {
   const handleDownloadCV = () => {
-    // Create a simple CV download - replace with your actual CV file path
     const link = document.createElement("a");
-    link.href = "/images/cv/cv.pdf"; // Change this to your CV file path
+    link.href = "/images/cv/cv.pdf"; 
     link.download = "Ayomide_CV.pdf";
     link.click();
   };

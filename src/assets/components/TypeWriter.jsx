@@ -18,7 +18,6 @@ const TypeWriter = ({ roles = ["Ayomide", "a Developer", "a Software Engineer", 
     let timer;
 
     if (isDeleting) {
-      // Delete the current role
       if (charIndex > 0) {
         timer = setTimeout(() => {
           setDisplayText(prefix + currentRole.slice(0, charIndex - 1));
