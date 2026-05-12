@@ -35,7 +35,7 @@ const Skills = () => {
       skills: [
         { name: "Node.js", percentage: 72, icon: SiNodedotjs },
         { name: "MongoDB", percentage: 60, icon: SiMongodb },
-        { name: "Python", percentage: 50, icon: SiPython },
+        { name: "Python", percentage: 70, icon: SiPython },
         { name: "MySQL", percentage: 78, icon: SiMysql },
         { name: "Java", percentage: 80, icon: FaJava },
         { name: "C++", percentage: 70, icon: SiCplusplus },
