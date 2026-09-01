@@ -92,7 +92,7 @@ const Projects = () => {
       image: "/images/Buddysync.png",
       languages: ["React", "Tailwind CSS"],
       icons: [SiReact, SiTailwindcss],
-      liveLink: "https://www.buddysync.app/",
+      liveLink: "https://www.buddysync.net/",
       githubLink: "https://github.com/ayomide-23/buddysync",
       category: "client"
     }
